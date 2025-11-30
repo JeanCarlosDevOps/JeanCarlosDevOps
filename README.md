@@ -36,5 +36,5 @@
 
 <h3 align="left">Minhas Estatísticas:</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula" alt="Estatísticas"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosDevOps&layout=compact&theme=dracula" alt="Estatísticas"/>
 </p>
