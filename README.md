@@ -28,7 +28,7 @@
  <li> Pode me perguntar sobre <strong>Games e Tecnologia</strong></li>
 </ul>
 
-<h3 align="center">🛠 Linguagens e Ferramentas</h3>
+<h3 align="center"> Linguagens e Ferramentas</h3>
 <div align="center">
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -41,13 +41,11 @@
 <br>
 
 <br>
-<h3 align="center">💻 Coding Mode</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
 </div>
 <br>
 
-<h3 align="center">🐍 Minha Cobrinha das Contribuições</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/JeanCarlosDevOps/JeanCarlosDevOps/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
