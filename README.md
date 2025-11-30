@@ -22,9 +22,9 @@
 
 <br>
 
-- 🔭 Atualmente estou a trabalhar no meu **Portfólio**
-- 🌱 Estou a aprender **JavaScript e Python**
-- 💬 Pode perguntar-me sobre **Games e Tecnologia**
+-  Atualmente estou a trabalhar no meu **Portfólio**
+-  Estou a aprender **JavaScript e Python**
+-  Pode perguntar-me sobre **Games e Tecnologia**
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<h3 align="left">Minhas Estatísticas:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosDevOps&layout=compact&theme=dracula" alt="Estatísticas"/>
-</p>
+### Minhas Estatísticas:
+![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=JeanCarlosDevOps&show_icons=true&theme=dracula&include_all_commits=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosDevOps&layout=compact&theme=dracula)
