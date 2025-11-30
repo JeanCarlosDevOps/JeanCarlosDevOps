@@ -41,14 +41,10 @@
 <br>
 
 <br>
-
-<h3 align="center">🚀 Meu Foco Atual</h3>
+<h3 align="center">💻 Coding Mode</h3>
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Estudando+Python+e+JavaScript;Desenvolvendo+meu+Portfólio;Focado+em+evoluir+cada+dia;Apaixonado+por+Tecnologia" alt="Typing SVG" />
-  </a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
 </div>
-
 <br>
 
 <h3 align="center">🐍 Minha Cobrinha das Contribuições</h3>
