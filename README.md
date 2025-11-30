@@ -46,8 +46,7 @@
   <br><br>
   <img src="https://streak-stats.demolab.com?user=JeanCarlosDevOps&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="Streak" />
 </div>
-
 <h3 align="center">🐍 Minha Cobrinha das Contribuições</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JeanCarlosDevOps/JeanCarlosDevOps/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/JeanCarlosDevOps/JeanCarlosDevOps/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
