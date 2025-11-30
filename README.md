@@ -1,14 +1,30 @@
-<h1 align="center">Olá, eu sou o Jean Carlos</h1>
+<h1 align="center">Olá, eu sou o [Seu Nome] 👋</h1>
 <h3 align="center">Apaixonado por desenvolvimento Front-end e Back-end 🚀</h3>
 
-<p align="left">
-Sou um desenvolvedor iniciante focado em aprender novas tecnologias.
+<p align="center">
+  Sou um desenvolvedor iniciante focado em aprender novas tecnologias.
 </p>
 
-- 🔭 Atualmente estou trabalhando no meu **Portfólio**
-- 🌱 Estou aprendendo **JavaScript e Python**
-- 💬 Pode me perguntar sobre **Games e Tecnologia**
-- 📫 Como me encontrar: **jeancarlosls166@gmail.com**
+<div align="center">
+  <a href="mailto:jeancarlosls166@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/jean-carlos166/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/carlosls_jean/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://wa.me/5587988631286" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</div>
+
+<br>
+
+- 🔭 Atualmente estou a trabalhar no meu **Portfólio**
+- 🌱 Estou a aprender **JavaScript e Python**
+- 💬 Pode perguntar-me sobre **Games e Tecnologia**
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
@@ -20,5 +36,5 @@ Sou um desenvolvedor iniciante focado em aprender novas tecnologias.
 
 <h3 align="left">Minhas Estatísticas:</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosDevOps&layout=compact&theme=dracula" alt="Estatísticas"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula" alt="Estatísticas"/>
 </p>
