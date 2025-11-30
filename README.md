@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o [Seu Nome] 👋</h1>
+<h1 align="center">Olá, eu sou o Jean Carlos 👋</h1>
 <h3 align="center">Apaixonado por desenvolvimento Front-end e Back-end 🚀</h3>
 
 <p align="center">
