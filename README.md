@@ -40,12 +40,17 @@
 
 <br>
 
-<h3 align="center">🏆 Minhas Conquistas</h3>
+<br>
+
+<h3 align="center">🚀 Meu Foco Atual</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JeanCarlosDevOps&theme=dracula&no-frame=true&column=7" alt="Troféus" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=JeanCarlosDevOps&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="Streak" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Estudando+Python+e+JavaScript;Desenvolvendo+meu+Portfólio;Focado+em+evoluir+cada+dia;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  </a>
 </div>
+
+<br>
+
 <h3 align="center">🐍 Minha Cobrinha das Contribuições</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/JeanCarlosDevOps/JeanCarlosDevOps/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
