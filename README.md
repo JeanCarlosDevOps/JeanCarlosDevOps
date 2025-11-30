@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o [Seu Nome] 👋</h1>
+<h1 align="center">Olá, eu sou o Jean Carlos</h1>
 <h3 align="center">Apaixonado por desenvolvimento Front-end e Back-end 🚀</h3>
 
 <p align="left">
@@ -8,7 +8,7 @@ Sou um desenvolvedor iniciante focado em aprender novas tecnologias.
 - 🔭 Atualmente estou trabalhando no meu **Portfólio**
 - 🌱 Estou aprendendo **JavaScript e Python**
 - 💬 Pode me perguntar sobre **Games e Tecnologia**
-- 📫 Como me encontrar: **[seu-email@exemplo.com]**
+- 📫 Como me encontrar: **jeancarlosls166@gmail.com**
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
@@ -20,5 +20,5 @@ Sou um desenvolvedor iniciante focado em aprender novas tecnologias.
 
 <h3 align="left">Minhas Estatísticas:</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula" alt="Estatísticas"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosDevOps&layout=compact&theme=dracula" alt="Estatísticas"/>
 </p>
