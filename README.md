@@ -40,6 +40,6 @@
 
 <h3 align="center">Minhas Estatísticas:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanCarlosDevOps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosDevOps&layout=compact&theme=dracula" height="180" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JeanCarlosDevOps&show_icons=true&theme=dracula" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosDevOps&layout=compact&theme=dracula" height="150" alt="langs" />
 </div>
