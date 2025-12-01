@@ -2,7 +2,7 @@
 <h3 align="center">Apaixonado por desenvolvimento Front-end e Back-end 🚀</h3>
 
 <p align="center">
-  Sou um desenvolvedor iniciante focado em aprender novas tecnologias.
+  Sou um desenvolvedor iniciante focado em aprender novas tecnologias. Tenho pouco mais de um ano de estudos em desenvolvimento e já tenho bons projetos e conhecimento em desenvolvimento Front End e Back End
 </p>
 
 <div align="center">
